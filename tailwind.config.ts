@@ -31,9 +31,6 @@ const config: Config = {
         warning: '#F59E0B',
         error: '#EF4444',
       },
-      fontFamily: {
-        sans: ['Josefin Sans', 'sans-serif'],
-      },
       animation: {
         'fade-in': 'fadeIn 0.3s ease-in-out',
         'slide-up': 'slideUp 0.3s ease-out',
